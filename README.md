@@ -37,7 +37,7 @@ O Tomcat imbudido está configurado para subir na porta 8080 com o contexto /web
  - GET /correios?cepEndereco
  - Parametros:
  - cepEndereco: String - Recebe uma parte do endereço
-Retorno:
+ - Retorno:
 [
 {
 "cep": String,
@@ -52,7 +52,7 @@ Retorno:
  - GET /rest/cep/{cep}
  - Parametros:
  - cepEndereco: String - Recebe um CEP
-Retorno:
+ - Retorno:
 {
 "cep": String,
 "logradouro": String,
