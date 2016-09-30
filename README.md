@@ -3,8 +3,8 @@
 WebService de busca de informações de CEP e Endereços.
 
 Java 1.7
-Spring-boot
-Retrofit2
+\nSpring-boot
+\nRetrofit2
 
 # Instruções de compilação
 
