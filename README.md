@@ -9,7 +9,7 @@ WebService de busca de informações de CEP e Endereços.
 # Instruções de compilação
 
  - Alterar o caminho do compilador do Maven no arquivo build.properties
- - Alterar o endereço e porta do proxy (caso houver) no arquivo application.properties
+ - Alterar o endereço e porta do proxy (caso houver) no arquivo xy-inc/src/main/resources/application.properties
  - Executar o comando mvn clean install no diretório que contém o arquivo pom.xml
  - Executar o artefato gerado na pasta target através do comando java -jar webCep.jar
 
