@@ -1,0 +1,9 @@
+<project name="webCep" basedir="." default="install">
+
+	<property file="build.properties" />
+
+	<import file="build-pai.xml" />
+
+	<property name="module-dir" value="webCep" />
+
+</project>
