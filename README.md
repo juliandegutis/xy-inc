@@ -51,7 +51,7 @@ O Tomcat imbudido está configurado para subir na porta 8080 com o contexto /web
 - Busca os dados do endereço recebendo um CEP como parâmetro (RESTAPI)
  - GET /rest/cep/{cep}
  - Parametros:
- - cepEndereco: String - Recebe um CEP
+ - cep: String - Recebe um CEP
  - Retorno:
 {
 "cep": String,
