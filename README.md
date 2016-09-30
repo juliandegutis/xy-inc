@@ -34,7 +34,7 @@ O Tomcat imbudido está configurado para subir na porta 8080 com o contexto /web
 ]
 
 - Busca os dados do endereço recebendo uma parte do endereço como parâmetro
- - GET /correios?cepEndereco
+ - GET /correios?cepEndereco : Exemplo de query - Rua Oswaldo Uberlandia 
  - Parametros:
  - cepEndereco: String - Recebe uma parte do endereço
  - Retorno:
